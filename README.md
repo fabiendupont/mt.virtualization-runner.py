@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/fdupont-redhat/mt.virtualization-runner/badge.svg?branch=master)](https://coveralls.io/github/fdupont-redhat/mt.virtualization-runner?branch=master)
+
 # Conversion-as-a-Service
 
 This project aims at providing a set of tools to add self service for
